@@ -4,5 +4,5 @@ The dataset includes the data about soil properties and greenhouse gas fluxes of
 ## Dataset
 ['Soil properties and greenhouse gas fluxes of Prairie Pothole Region wetlands: a comprehensive data release' from USGS](https://www.sciencebase.gov/catalog/item/59a86e39e4b0421949a84627)
 ## Hypothesis
-1.Is the GHG concentration releated to other parameters like soil saturation or air temperature? If so, what are the relationships between them?
+1. Soil saturation or air temperature and some other parameters will influence GHG concentration.
 2. GHG gas fluexes in the PPR region have some seasonal characteristics.
