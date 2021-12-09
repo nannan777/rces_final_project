@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nannan777/rces_final_project/blob/main/final_project.ipynb/HEAD)
 # rces_final_project
 ## General Scope of the project
 The dataset includes the data about soil properties and greenhouse gas fluxes of Prairie Pothole Region (PPR) wetland catchments. This project mainly focus on the characteristics of GHG like emission composition, emission concentration in this region. Aiming to analyze the exchange of carbon with the atmosphere, soil carbon sequestration or greenhouse gas flux.
